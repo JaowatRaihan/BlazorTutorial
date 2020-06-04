@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Components;
 using System;
 using System.Collections.Generic;
-using System.Linq;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace EmployeeManagement.Web.Pages
@@ -11,14 +11,14 @@ namespace EmployeeManagement.Web.Pages
     {
         public IEnumerable<Employee> Employees { get; set; }
 
-        protected override Task OnInitializedAsync()
+        protected override async Task OnInitializedAsync()
         {
-            LoadEmployees();
-            return base.OnInitializedAsync();
+            await Task.Run(LoadEmployees);
         }
 
         private void LoadEmployees()
         {
+            Thread.Sleep(3000);
             Employee employee1 = new Employee
             {
                 EmployeeId = 1,
@@ -26,7 +26,7 @@ namespace EmployeeManagement.Web.Pages
                 LastName = "Doe",
                 Email = "john@employee.com",
                 DateOfBirth = new DateTime(1980, 12, 5),
-                Department = new Department { DepartmentId = 1, DepartmentName = "HR" },
+                DepartmentId = 1,
                 Gender = Gender.Male,
                 PhotoPath = "images/john.jpg"
             };
@@ -37,7 +37,7 @@ namespace EmployeeManagement.Web.Pages
                 LastName = "Doe",
                 Email = "john@employee.com",
                 DateOfBirth = new DateTime(1980, 12, 5),
-                Department = new Department { DepartmentId = 1, DepartmentName = "HR" },
+                DepartmentId = 1,
                 Gender = Gender.Male,
                 PhotoPath = "images/cris.jpg"
             };
@@ -48,8 +48,8 @@ namespace EmployeeManagement.Web.Pages
                 LastName = "Doe",
                 Email = "john@employee.com",
                 DateOfBirth = new DateTime(1980, 12, 5),
-                Department = new Department { DepartmentId = 2, DepartmentName = "Officer" },
-                Gender = EmployeeManagement.Models.Gender.Male,
+                DepartmentId = 2,
+                Gender = Gender.Male,
                 PhotoPath = "images/merry.jpg"
             };
             Employee employee4 = new Employee
@@ -59,8 +59,8 @@ namespace EmployeeManagement.Web.Pages
                 LastName = "Doe",
                 Email = "john@employee.com",
                 DateOfBirth = new DateTime(1980, 12, 5),
-                Department = new Department { DepartmentId = 2, DepartmentName = "Officer" },
-                Gender = EmployeeManagement.Models.Gender.Male,
+                DepartmentId = 2,
+                Gender = Gender.Male,
                 PhotoPath = "images/alex.jpg"
             };
 
