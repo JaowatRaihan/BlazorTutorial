@@ -9,6 +9,8 @@ E:\Blazor Projects\BlazorTutorial\EmployeeManagement.Web\bin\Debug\netcoreapp3.1
 E:\Blazor Projects\BlazorTutorial\EmployeeManagement.Web\bin\Debug\netcoreapp3.1\EmployeeManagement.Web.pdb
 E:\Blazor Projects\BlazorTutorial\EmployeeManagement.Web\bin\Debug\netcoreapp3.1\EmployeeManagement.Web.Views.dll
 E:\Blazor Projects\BlazorTutorial\EmployeeManagement.Web\bin\Debug\netcoreapp3.1\EmployeeManagement.Web.Views.pdb
+E:\Blazor Projects\BlazorTutorial\EmployeeManagement.Web\bin\Debug\netcoreapp3.1\EmployeeManagement.Models.dll
+E:\Blazor Projects\BlazorTutorial\EmployeeManagement.Web\bin\Debug\netcoreapp3.1\EmployeeManagement.Models.pdb
 E:\Blazor Projects\BlazorTutorial\EmployeeManagement.Web\obj\Debug\netcoreapp3.1\EmployeeManagement.Web.csprojAssemblyReference.cache
 E:\Blazor Projects\BlazorTutorial\EmployeeManagement.Web\obj\Debug\netcoreapp3.1\EmployeeManagement.Web.csproj.CoreCompileInputs.cache
 E:\Blazor Projects\BlazorTutorial\EmployeeManagement.Web\obj\Debug\netcoreapp3.1\EmployeeManagement.Web.MvcApplicationPartsAssemblyInfo.cache
@@ -37,11 +39,9 @@ E:\Blazor Projects\BlazorTutorial\EmployeeManagement.Web\obj\Debug\netcoreapp3.1
 E:\Blazor Projects\BlazorTutorial\EmployeeManagement.Web\obj\Debug\netcoreapp3.1\EmployeeManagement.Web.RazorTargetAssemblyInfo.cache
 E:\Blazor Projects\BlazorTutorial\EmployeeManagement.Web\obj\Debug\netcoreapp3.1\EmployeeManagement.Web.RazorTargetAssemblyInfo.cs
 E:\Blazor Projects\BlazorTutorial\EmployeeManagement.Web\obj\Debug\netcoreapp3.1\EmployeeManagement.Web.Views.pdb
+E:\Blazor Projects\BlazorTutorial\EmployeeManagement.Web\obj\Debug\netcoreapp3.1\EmployeeManagement.Web.csproj.CopyComplete
 E:\Blazor Projects\BlazorTutorial\EmployeeManagement.Web\obj\Debug\netcoreapp3.1\staticwebassets\EmployeeManagement.Web.StaticWebAssets.Manifest.cache
 E:\Blazor Projects\BlazorTutorial\EmployeeManagement.Web\obj\Debug\netcoreapp3.1\staticwebassets\EmployeeManagement.Web.StaticWebAssets.xml
 E:\Blazor Projects\BlazorTutorial\EmployeeManagement.Web\obj\Debug\netcoreapp3.1\EmployeeManagement.Web.dll
 E:\Blazor Projects\BlazorTutorial\EmployeeManagement.Web\obj\Debug\netcoreapp3.1\EmployeeManagement.Web.pdb
 E:\Blazor Projects\BlazorTutorial\EmployeeManagement.Web\obj\Debug\netcoreapp3.1\EmployeeManagement.Web.genruntimeconfig.cache
-E:\Blazor Projects\BlazorTutorial\EmployeeManagement.Web\obj\Debug\netcoreapp3.1\EmployeeManagement.Web.csproj.CopyComplete
-E:\Blazor Projects\BlazorTutorial\EmployeeManagement.Web\bin\Debug\netcoreapp3.1\EmployeeManagement.Models.dll
-E:\Blazor Projects\BlazorTutorial\EmployeeManagement.Web\bin\Debug\netcoreapp3.1\EmployeeManagement.Models.pdb

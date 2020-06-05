@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "GpleHcu6B7/P/nSAmdNL+O6iZunqgOowv4jXdpeb+McjJgTX985p+4h7kGJruUOlH5kxw4TwjzF7rptCmuqDVQ==",
+  "dgSpecHash": "YI/6DKfwXGAZndlFKeC9c3GjEdkGPugA2xqz90YrkR+zXiO5BMF9/bq84EwRwg2lzgJ1YGssRoMqONpPzgY/ow==",
   "success": true,
   "projectFilePath": "E:\\Blazor Projects\\BlazorTutorial\\EmployeeManagement.Models\\EmployeeManagement.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\raiha\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\raiha\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\raiha\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\raiha\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }
